@@ -15,8 +15,4 @@ Logistic Regression
 Report
 You should be able to report the accuracy of the built model using different evaluation metrics:
 
-Algorithm   	--  Jaccard -- F1-score --	LogLoss
-KNN	                ?	          ?           NA
-Decision Tree	      ?	          ?	          NA
-SVM	                ?	          ?           NA
-LogisticRegression  ?	          ?	          ?
+![image](https://github.com/Zodomik/MachineLearning/assets/57897237/b51a5013-82cd-4903-8eb2-552dfd102c55)
